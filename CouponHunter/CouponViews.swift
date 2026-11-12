@@ -137,9 +137,9 @@ struct CouponDetailView: View {
     }
 
     // MARK: 口令
-    private var codeRow: some View {
+    private func codeRow(_ code: String) -> some View {
         HStack {
-            Text("口令：\(coupon.code ?? "")")
+            Text("口令：\(code)")
                 .font(.subheadline.monospaced())
             Spacer()
             Button {
