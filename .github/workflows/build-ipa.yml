@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    runs-on: macos-14     # GitHub 免费提供的 macOS 云机器
+    runs-on: macos-latest   # GitHub 免费提供的 macOS 云机器
     steps:
       - name: Checkout
         uses: actions/checkout@v4
