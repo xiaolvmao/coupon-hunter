@@ -1,0 +1,17 @@
+[
+  {"id":"meituan-waimai","name":"美团外卖","category":"外卖","emoji":"🛵","colorHex":"#FFC300","schemes":["imeituan","meituan"],"webCouponURL":"https://h5.waimai.meituan.com/","slogan":"天天领红包，下单更省钱"},
+  {"id":"eleme","name":"饿了么","category":"外卖","emoji":"🍱","colorHex":"#0097E0","schemes":["eleme"],"webCouponURL":"https://h5.ele.me/","slogan":"吃货红包每日领"},
+  {"id":"taobao","name":"淘宝","category":"购物","emoji":"🧧","colorHex":"#FF5000","schemes":["taobao","tbopen"],"webCouponURL":"https://h5.m.taobao.com/","slogan":"天天领现金红包"},
+  {"id":"tmall","name":"天猫","category":"购物","emoji":"🐱","colorHex":"#E60012","schemes":["tmall","tbopen"],"webCouponURL":"https://www.tmall.com/","slogan":"大牌券集中领"},
+  {"id":"jd","name":"京东","category":"购物","emoji":"🐶","colorHex":"#E1251B","schemes":["jdopen","openapp.jdmobile"],"webCouponURL":"https://coupon.jd.com/","slogan":"领券中心一站直达"},
+  {"id":"pdd","name":"拼多多","category":"购物","emoji":"🍎","colorHex":"#E02E24","schemes":["pinduoduo"],"webCouponURL":"https://mobile.yangkeduo.com/","slogan":"百亿补贴再叠加券"},
+  {"id":"vip","name":"唯品会","category":"购物","emoji":"💎","colorHex":"#FF2D8A","schemes":["vipshop"],"webCouponURL":"https://www.vip.com/","slogan":"品牌特卖优惠券"},
+  {"id":"dianping","name":"大众点评","category":"美食","emoji":"⭐️","colorHex":"#FF6633","schemes":["dianping"],"webCouponURL":"https://www.dianping.com/","slogan":"美食代金券低价购"},
+  {"id":"kfc","name":"肯德基","category":"美食","emoji":"🍗","colorHex":"#A3132C","schemes":["kfc"],"webCouponURL":"https://www.kfc.com.cn/","slogan":"疯狂星期四专属券"},
+  {"id":"mcd","name":"麦当劳","category":"美食","emoji":"🍟","colorHex":"#DA291C","schemes":["mcdonalds"],"webCouponURL":"https://www.mcdonalds.com.cn/","slogan":"会员月月有券"},
+  {"id":"starbucks","name":"星巴克","category":"咖啡茶饮","emoji":"☕️","colorHex":"#00754A","schemes":["starbucks"],"webCouponURL":"https://www.starbucks.com.cn/","slogan":"星级会员优惠券"},
+  {"id":"luckin","name":"瑞幸咖啡","category":"咖啡茶饮","emoji":"🦌","colorHex":"#1C2B47","schemes":["luckin"],"webCouponURL":"https://www.luckincoffee.com/","slogan":"周周都有 9.9 元券"},
+  {"id":"didi","name":"滴滴出行","category":"打车","emoji":"🚕","colorHex":"#FF7E21","schemes":["diditaxi","onetravel"],"webCouponURL":"https://common.diditaxi.com.cn/","slogan":"打车券包每日领"},
+  {"id":"amap","name":"高德打车","category":"打车","emoji":"🗺️","colorHex":"#00B6E3","schemes":["amapuri","amap"],"webCouponURL":"https://activity.amap.com/","slogan":"聚合平台比价打车"},
+  {"id":"maoyan","name":"猫眼电影","category":"娱乐","emoji":"🎬","colorHex":"#F03A47","schemes":["maoyan"],"webCouponURL":"https://www.maoyan.com/","slogan":"电影票立减券"}
+]
